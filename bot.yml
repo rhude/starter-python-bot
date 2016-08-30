@@ -1,5 +1,5 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: marche
+description: Test bot for slack
 avatar: resources/avatar.png
 background: resources/background.png
 config:
